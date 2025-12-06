@@ -16,5 +16,3 @@ Backend Developer
 - 🚀 Feed System — 基于时间线的信息流系统
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yyyCode&show_icons=true&theme=default)
-
