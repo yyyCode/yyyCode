@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm yyyCode
 
-<!--
-**yyyCode/yyyCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+- 热爱后端开发与系统设计
+- 专注于高并发、高可用系统架构
+- 喜欢写代码解决实际问题
+
+## 🛠 Tech Stack
+`Java` / `Spring Boot` / `MySQL` / `Redis` / `Docker` / `Linux`
+
+## 🧩 Projects
+- 🚀 Feed System — 基于时间线的信息流系统
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yyyCode&show_icons=true&theme=default)
+
