@@ -10,9 +10,10 @@ Backend Developer
 - 喜欢写代码解决实际问题
 
 ## 🛠 Tech Stack
-`Java` / `Spring Boot` / `MySQL` / `Redis` / `Docker` / `Linux`
+`Java` / `Spring Boot` / `MySQL` / `Redis` / `Docker` / `Linux` / `Kafka` / `AI` 
 
 ## 🧩 Projects
-- 🚀 Feed System — 基于时间线的信息流系统
+- Feed System — 基于时间线的信息流系统
+- Just Chat — 在线聊天系统
 
 ## 📈 GitHub Stats
