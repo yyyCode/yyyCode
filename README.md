@@ -17,11 +17,6 @@ Backend Developer
 `Java` / `Go` / `Spring Boot` / `Spring AI` / `MySQL` / `Redis` / `Docker` / `Linux` / `Kafka`
 
 ## 🧩 Projects
-- Feed System — 基于时间线的信息流系统
-- Just Chat — 在线聊天系统
-- Spider — 带有GUI的Python爬虫服务
-- OpenBlog — 开源博客系统
-- ZipLink — 短链接服务
-- NeteaseCloudMusic — 仿网易云音乐APP
+- **OpenBlog** — An open-source blogging platform
 
 ## 📈 GitHub Stats
