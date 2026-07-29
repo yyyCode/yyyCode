@@ -5,19 +5,23 @@ Backend Developer
 ---
 
 ## 🧑‍💻 About Me
-- 热爱后端开发与系统设计
-- 专注于高并发、高可用系统架构
-- 喜欢写代码解决实际问题
+
+- Passionate about building scalable and reliable backend systems
+- Focused on high-concurrency and high-availability architectures
+- Love writing clean, pragmatic code that solves real-world problems
+- Recently contributing to **Spring AI Alibaba** — integrating AI capabilities into the Spring ecosystem
+- Personal blog: [www.wecode.xin](https://www.wecode.xin)
 
 ## 🛠 Tech Stack
-`Java` / `Spring Boot` / `MySQL` / `Redis` / `Docker` / `Linux` / `Kafka` / `AI` 
+
+`Java` / `Go` / `Spring Boot` / `Spring AI` / `MySQL` / `Redis` / `Docker` / `Linux` / `Kafka`
 
 ## 🧩 Projects
 - Feed System — 基于时间线的信息流系统
 - Just Chat — 在线聊天系统
-- Spider — 带有GUI的python爬虫服务
+- Spider — 带有GUI的Python爬虫服务
 - OpenBlog — 开源博客系统
-- ZipLink — 短链接服务（未开始）
+- ZipLink — 短链接服务
 - NeteaseCloudMusic — 仿网易云音乐APP
 
 ## 📈 GitHub Stats
