@@ -9,6 +9,7 @@ One of 8 billion. Nothing more, nothing less
 
 - Love writing clean, pragmatic code that solves real-world problems
 - Recently contributing to **Spring AI Alibaba** — integrating AI capabilities into the Spring ecosystem
+- Also contributing to **Higress** — cloud-native AI gateway
 - Personal blog: [www.wecode.xin](https://www.wecode.xin)
 
 <br>
