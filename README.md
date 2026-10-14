@@ -22,4 +22,5 @@ One of 8 billion. Nothing more, nothing less
 
 ## Projects
 - **OpenBlog** — An open-source blogging platform
+- **DeepCode** — A CLI agent
 
