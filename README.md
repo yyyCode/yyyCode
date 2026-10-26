@@ -11,6 +11,7 @@ One of 8 billion. Nothing more, nothing less
 - Recently contributing to **Spring AI Alibaba** — integrating AI capabilities into the Spring ecosystem
 - Also contributing to **Higress** — cloud-native AI gateway
 - Personal blog: [www.wecode.xin](https://www.wecode.xin)
+- cli agent demo: [deepcode.wecode.xin](https://deepcode.wecode.xin/)
 
 <br>
 
